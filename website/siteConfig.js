@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Mitchell Wahlmeier', // Title for your website.
-    tagline: 'Product manager passionate about games',
+    tagline: 'Product manager passionate about music and games',
     profilePhoto: 'img/profile.png',
     url: 'https://Mitchellmw.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
