@@ -3,20 +3,7 @@ id: about
 title: About
 ---
 
-Passionate about music, I started writing songs around when I was 10.
+Passionate about music, I started writing songs around when I was 10. Although I don't play professionally, writing and performing music is still a huge part of my life.
 
  
 
-// ## Current Role
-
-// Grace Hopper Celebration Attendee
-
-// ## Recognition
-
-// - 2020 Awesome Woman in Technology Award
-
-// ## Social Media
-
-// - Twitter
-// - LinkedIn
-// - GitHub
