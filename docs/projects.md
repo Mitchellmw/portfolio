@@ -1,5 +1,5 @@
 ---
-id: Recordings
+id: recordings
 title: Recordings
 ---
 
