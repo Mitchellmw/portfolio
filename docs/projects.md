@@ -1,5 +1,5 @@
 ---
-id: Projects
+id: Recordings
 title: Recordings
 ---
 
