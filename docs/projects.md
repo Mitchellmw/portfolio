@@ -1,9 +1,10 @@
 ---
-id: projects
-title: Projects
+id: Projects
+title: Recordings
 ---
 
-Embed any notable projects in this page.
+Here are some of my recent recordings on my [Youtube Channel} (https://www.youtube.com/user/MitchellWahlmeier)
+![Recent Recodings](./assets/recordings.png)
 
 For example, my favorite project would be linked and I can even embed
 a screenshot or GIF to show it.
